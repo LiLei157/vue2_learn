@@ -1,0 +1,26 @@
+{
+  "name": "vue2_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {
+    "dev": "rollup -cw",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiLei157/vue2_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiLei157/vue2_learn/issues"
+  },
+  "homepage": "https://github.com/LiLei157/vue2_learn#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
+    "rollup": "^2.79.0",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}

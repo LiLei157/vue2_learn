@@ -1,0 +1,20 @@
+# 默认忽略的文件
+/shelf/
+/.idea/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+typings/
+.nyc_output/
